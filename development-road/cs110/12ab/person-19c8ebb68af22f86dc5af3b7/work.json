@@ -23,7 +23,7 @@
         "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
         "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
       },
-      "currentPage": 22,
+      "currentPage": 24,
       "prepBoard": {
         "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
         "strokes": [],
@@ -153,7 +153,8 @@
       },
       "pitch": {
         "understand": "The job in itself is to be part of a team but also understand that as an individual you have lots to do for yourself and the team. The finish line is always changing, and each small step was the previous finish line, I can relate this to when you are creating something like a game or a book you have multiple steps to complete before reaching the end. The end can be the beginning of the next project.",
-        "offer": "I believe that I bring organization and leadership to a team, I like to stay organized and make sure that we all can access what we need to and when we need to. Id say that my leadership skills are something that I can contribute, and have previously contributed in past projects. In the Slideshow, Lov3rs Plaza, and Sharksweeper projects I have been the team leader and have been in charge of setting up and distributing the work load to the correct individuals based on their skills. I had been in charge of managing the main repository making sure that "
+        "offer": "I believe that I bring organization and leadership to a team, I like to stay organized and make sure that we all can access what we need to and when we need to. Id say that my leadership skills are something that I can contribute, and have previously contributed in past projects. In the Slideshow, Lov3rs Plaza, and Sharksweeper projects I have been the team leader and have been in charge of setting up and distributing the work load to the correct individuals based on their skills. I had been in charge of managing the main repository making sure that assignments get done in time for submission.",
+        "limits": "I think that my knowledge in coding would be classified as basic, meaning that I have been brushing up in my skills and trying more solo projects to further those skills. I think that understanding the code is important but so is understanding the story."
       }
     },
     "receipts": [
@@ -336,7 +337,7 @@
       "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
       "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
     },
-    "currentPage": 22,
+    "currentPage": 24,
     "prepBoard": {
       "notes": "You start with the background\n- what the audience doesnt see the mindset and the story behind the scene\n\nThe Work\n- As a team you create and add all ideas and just do the busy work\n\nResults\n-See the results and identify what you have done, keep being the fan and allow for new ideas\n\nRevision\n- If something needs to change then change but keep the audience and the story in mind",
       "strokes": [],
@@ -466,13 +467,14 @@
     },
     "pitch": {
       "understand": "The job in itself is to be part of a team but also understand that as an individual you have lots to do for yourself and the team. The finish line is always changing, and each small step was the previous finish line, I can relate this to when you are creating something like a game or a book you have multiple steps to complete before reaching the end. The end can be the beginning of the next project.",
-      "offer": "I believe that I bring organization and leadership to a team, I like to stay organized and make sure that we all can access what we need to and when we need to. Id say that my leadership skills are something that I can contribute, and have previously contributed in past projects. In the Slideshow, Lov3rs Plaza, and Sharksweeper projects I have been the team leader and have been in charge of setting up and distributing the work load to the correct individuals based on their skills. I had been in charge of managing the main repository making sure that "
+      "offer": "I believe that I bring organization and leadership to a team, I like to stay organized and make sure that we all can access what we need to and when we need to. Id say that my leadership skills are something that I can contribute, and have previously contributed in past projects. In the Slideshow, Lov3rs Plaza, and Sharksweeper projects I have been the team leader and have been in charge of setting up and distributing the work load to the correct individuals based on their skills. I had been in charge of managing the main repository making sure that assignments get done in time for submission.",
+      "limits": "I think that my knowledge in coding would be classified as basic, meaning that I have been brushing up in my skills and trying more solo projects to further those skills. I think that understanding the code is important but so is understanding the story."
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 22,
+    "lastPage": 24,
     "timerMinutes": 10
   }
 }
