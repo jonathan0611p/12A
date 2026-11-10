@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "course": "CS110",
+  "assignment": "independence-12ab",
+  "state": {
+    "me": {
+      "id": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+      "name": "Jonathan Pacheco",
+      "verificationCode": "VIEW-C1DF8802051C3182CACFD51C"
+    },
+    "draft": {
+      "prep": {
+        "repo": "https://github.com/jonathan0611p/12A",
+        "gitTest": "I allowed P2P to access my github and installed the extension",
+        "access": "I "
+      },
+      "currentPage": 10
+    },
+    "receipts": [],
+    "clocks": [
+      {
+        "code": "TIME-A85BF3A8C72D776094A7AB2A",
+        "name": "Jonathan Pacheco",
+        "day": "A",
+        "arrival": "2026-11-10T20:59:51.006Z",
+        "start": "2026-11-10T20:45:00Z",
+        "calculated": 10,
+        "deduction": 10,
+        "status": "Calculated · awaiting instructor review"
+      }
+    ],
+    "team": null,
+    "invites": []
+  },
+  "draft": {
+    "prep": {
+      "repo": "https://github.com/jonathan0611p/12A",
+      "gitTest": "I allowed P2P to access my github and installed the extension",
+      "access": "I "
+    },
+    "currentPage": 10
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 10,
+    "timerMinutes": 10
+  }
+}
