@@ -17,9 +17,11 @@
         "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game is the most important thing I took from the video ",
         "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?",
         "video4": "Document what was done, who did it, whats the next step, keep times and other types of important notes so that you can start off where you left.\n ",
-        "video5": "Unity is one the most common and easiest game developer to use "
+        "video5": "Unity is one the most common and easiest game developer to use, we can change multiple things at the same time.",
+        "video6": "we can change the character to whatever we want, it can be made or imported.",
+        "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story "
       },
-      "currentPage": 15
+      "currentPage": 17
     },
     "receipts": [],
     "clocks": [
@@ -46,14 +48,16 @@
       "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game is the most important thing I took from the video ",
       "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?",
       "video4": "Document what was done, who did it, whats the next step, keep times and other types of important notes so that you can start off where you left.\n ",
-      "video5": "Unity is one the most common and easiest game developer to use "
+      "video5": "Unity is one the most common and easiest game developer to use, we can change multiple things at the same time.",
+      "video6": "we can change the character to whatever we want, it can be made or imported.",
+      "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story "
     },
-    "currentPage": 15
+    "currentPage": 17
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 15,
+    "lastPage": 17,
     "timerMinutes": 10
   }
 }
