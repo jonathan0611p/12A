@@ -12,9 +12,9 @@
       "prep": {
         "repo": "https://github.com/jonathan0611p/12A",
         "gitTest": "I allowed P2P to access my github and installed the extension",
-        "access": "I "
+        "access": "I selected my 12A repository and made that my work course for tuesday "
       },
-      "currentPage": 10
+      "currentPage": 11
     },
     "receipts": [],
     "clocks": [
@@ -36,14 +36,14 @@
     "prep": {
       "repo": "https://github.com/jonathan0611p/12A",
       "gitTest": "I allowed P2P to access my github and installed the extension",
-      "access": "I "
+      "access": "I selected my 12A repository and made that my work course for tuesday "
     },
-    "currentPage": 10
+    "currentPage": 11
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 10,
+    "lastPage": 11,
     "timerMinutes": 10
   }
 }
