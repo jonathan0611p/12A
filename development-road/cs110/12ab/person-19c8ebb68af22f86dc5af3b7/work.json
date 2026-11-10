@@ -14,9 +14,10 @@
         "gitTest": "I allowed P2P to access my github and installed the extension",
         "access": "I selected my 12A repository and made that my work course for tuesday ",
         "video1": "Video 1 is a overview of what the next videos are going to be.\nTake notes and rewatch if needed.\n",
-        "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game "
+        "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game is the most important thing I took from the video ",
+        "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?"
       },
-      "currentPage": 12
+      "currentPage": 14
     },
     "receipts": [],
     "clocks": [
@@ -40,14 +41,15 @@
       "gitTest": "I allowed P2P to access my github and installed the extension",
       "access": "I selected my 12A repository and made that my work course for tuesday ",
       "video1": "Video 1 is a overview of what the next videos are going to be.\nTake notes and rewatch if needed.\n",
-      "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game "
+      "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game is the most important thing I took from the video ",
+      "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?"
     },
-    "currentPage": 12
+    "currentPage": 14
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 12,
+    "lastPage": 14,
     "timerMinutes": 10
   }
 }
