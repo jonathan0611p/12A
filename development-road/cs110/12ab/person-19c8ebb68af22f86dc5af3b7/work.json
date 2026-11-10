@@ -169,7 +169,24 @@
         "name": "Chat GPT and Gemini",
         "task": "Serve as a pool of information where I can ask questions or for clarification.",
         "verify": "I will not take it as face value but will ask for references and will look for other sources. I can relate to using AI with English and Math, I have used it to help me understand math concepts or to use example to clarify. "
-      }
+      },
+      "huddle": {},
+      "huddleBoard": {
+        "notes": "",
+        "strokes": [],
+        "images": [],
+        "nodes": [],
+        "edges": []
+      },
+      "pipelineBoard": {
+        "notes": "",
+        "strokes": [],
+        "images": [],
+        "nodes": [],
+        "edges": []
+      },
+      "tasks": [],
+      "planRevision": 0
     },
     "receipts": [
       {
@@ -356,7 +373,34 @@
         "status": "Calculated · awaiting instructor review"
       }
     ],
-    "team": null,
+    "team": {
+      "id": "TEAM-269007727C029395881B847D",
+      "name": "Hello W0rld",
+      "lead": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+      "members": [
+        {
+          "id": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+          "name": "Jonathan Pacheco",
+          "prep": "PREP-53EF46ED82D48E4FF37852C8",
+          "clocks": [
+            {
+              "code": "TIME-A85BF3A8C72D776094A7AB2A",
+              "name": "Jonathan Pacheco",
+              "day": "A",
+              "arrival": "2026-11-10T20:59:51.006Z",
+              "start": "2026-11-10T20:45:00Z",
+              "calculated": 10,
+              "deduction": 10,
+              "status": "Calculated · awaiting instructor review"
+            }
+          ]
+        }
+      ],
+      "invites": [],
+      "revision": 0,
+      "plan": {},
+      "tasks": []
+    },
     "invites": []
   },
   "draft": {
@@ -518,7 +562,24 @@
       "name": "Chat GPT and Gemini",
       "task": "Serve as a pool of information where I can ask questions or for clarification.",
       "verify": "I will not take it as face value but will ask for references and will look for other sources. I can relate to using AI with English and Math, I have used it to help me understand math concepts or to use example to clarify. "
-    }
+    },
+    "huddle": {},
+    "huddleBoard": {
+      "notes": "",
+      "strokes": [],
+      "images": [],
+      "nodes": [],
+      "edges": []
+    },
+    "pipelineBoard": {
+      "notes": "",
+      "strokes": [],
+      "images": [],
+      "nodes": [],
+      "edges": []
+    },
+    "tasks": [],
+    "planRevision": 0
   },
   "prefs": {
     "schemaVersion": 1,
