@@ -19,9 +19,61 @@
         "video4": "Document what was done, who did it, whats the next step, keep times and other types of important notes so that you can start off where you left.\n ",
         "video5": "Unity is one the most common and easiest game developer to use, we can change multiple things at the same time.",
         "video6": "we can change the character to whatever we want, it can be made or imported.",
-        "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story "
+        "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
+        "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
       },
-      "currentPage": 17
+      "currentPage": 19,
+      "prepBoard": {
+        "notes": "",
+        "strokes": [],
+        "images": [],
+        "nodes": [
+          {
+            "id": "feae90d8-04a3-4d66-a296-e835ddbc95a6",
+            "kind": "text",
+            "x": 0.29366429374297487,
+            "y": 0.033526861399071725,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#75559c",
+            "text": ""
+          },
+          {
+            "id": "34dfdb43-f99f-4f5c-a635-1ee5024f9349",
+            "kind": "text",
+            "x": 0.053874110153615595,
+            "y": 0.0459778772129735,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#75559c",
+            "text": "The Background"
+          },
+          {
+            "id": "99af5d58-4573-4a65-b8d8-851363a7017f",
+            "kind": "text",
+            "x": 0.34828316889388455,
+            "y": 0.038863011033601055,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#75559c",
+            "text": "The work"
+          }
+        ],
+        "edges": [
+          {
+            "id": "9f735123-5858-4049-a22f-dd173f02aaab",
+            "from": "34dfdb43-f99f-4f5c-a635-1ee5024f9349",
+            "fromPort": "e",
+            "to": "feae90d8-04a3-4d66-a296-e835ddbc95a6",
+            "toPort": "s",
+            "color": "#75559c"
+          }
+        ],
+        "pen": {
+          "color": "#75559c",
+          "size": 3
+        }
+      }
     },
     "receipts": [],
     "clocks": [
@@ -50,14 +102,66 @@
       "video4": "Document what was done, who did it, whats the next step, keep times and other types of important notes so that you can start off where you left.\n ",
       "video5": "Unity is one the most common and easiest game developer to use, we can change multiple things at the same time.",
       "video6": "we can change the character to whatever we want, it can be made or imported.",
-      "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story "
+      "opinion": "In a new story this pipeline can help me understand how to go from begging to end. I have to understand that I first have to have the right mentality to move forward with the project as well know that the story and its lore. I want to make a new a world where I can combine medieval times like 1500-1600 with futuristic ideologies. The pipeline allows me to have in mind the backstory of the game, how to organize myself and develop the project.",
+      "questions": "How will we resolve conflict?\nWhat if someone is lacking and not contributing?\nHow will we communicate to finish projects?"
     },
-    "currentPage": 17
+    "currentPage": 19,
+    "prepBoard": {
+      "notes": "",
+      "strokes": [],
+      "images": [],
+      "nodes": [
+        {
+          "id": "feae90d8-04a3-4d66-a296-e835ddbc95a6",
+          "kind": "text",
+          "x": 0.29366429374297487,
+          "y": 0.033526861399071725,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": ""
+        },
+        {
+          "id": "34dfdb43-f99f-4f5c-a635-1ee5024f9349",
+          "kind": "text",
+          "x": 0.053874110153615595,
+          "y": 0.0459778772129735,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": "The Background"
+        },
+        {
+          "id": "99af5d58-4573-4a65-b8d8-851363a7017f",
+          "kind": "text",
+          "x": 0.34828316889388455,
+          "y": 0.038863011033601055,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#75559c",
+          "text": "The work"
+        }
+      ],
+      "edges": [
+        {
+          "id": "9f735123-5858-4049-a22f-dd173f02aaab",
+          "from": "34dfdb43-f99f-4f5c-a635-1ee5024f9349",
+          "fromPort": "e",
+          "to": "feae90d8-04a3-4d66-a296-e835ddbc95a6",
+          "toPort": "s",
+          "color": "#75559c"
+        }
+      ],
+      "pen": {
+        "color": "#75559c",
+        "size": 3
+      }
+    }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 17,
+    "lastPage": 19,
     "timerMinutes": 10
   }
 }
