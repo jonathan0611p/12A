@@ -15,9 +15,11 @@
         "access": "I selected my 12A repository and made that my work course for tuesday ",
         "video1": "Video 1 is a overview of what the next videos are going to be.\nTake notes and rewatch if needed.\n",
         "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game is the most important thing I took from the video ",
-        "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?"
+        "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?",
+        "video4": "Document what was done, who did it, whats the next step, keep times and other types of important notes so that you can start off where you left.\n ",
+        "video5": "Unity is one the most common and easiest game developer to use "
       },
-      "currentPage": 14
+      "currentPage": 15
     },
     "receipts": [],
     "clocks": [
@@ -42,14 +44,16 @@
       "access": "I selected my 12A repository and made that my work course for tuesday ",
       "video1": "Video 1 is a overview of what the next videos are going to be.\nTake notes and rewatch if needed.\n",
       "video2": "Perseverance\n-Motivate not only yourself but other team members\nAdaptability\nCollaboration\nCustomer focus: a fan/ customer\n\nMindset\nhave a growth mindset, be comfortable with the uncomfortable\nlearn and FAILLL; its important \neffort goes a long way\ntake criticism\n\nHave the correct mindset when you go into building a game is the most important thing I took from the video ",
-      "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?"
+      "video3": "Stay organized so that you and your team can find things that they want to find.\nCreating folders can be automized.\nBe mindful of what the folders are named\nCan I add this atomization to Github?",
+      "video4": "Document what was done, who did it, whats the next step, keep times and other types of important notes so that you can start off where you left.\n ",
+      "video5": "Unity is one the most common and easiest game developer to use "
     },
-    "currentPage": 14
+    "currentPage": 15
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 14,
+    "lastPage": 15,
     "timerMinutes": 10
   }
 }
